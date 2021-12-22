@@ -1,1 +1,2 @@
-# chating-application-reactnative
+# Chat-app
+ 
